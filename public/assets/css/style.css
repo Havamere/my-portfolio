@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/Technology-Wallpaper-13.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -133,6 +133,14 @@ h1, h2, h3, h4, h5, h6 {
 #headerwrap h4 {
 	font-weight: 400;
 	color: #ffffff
+}
+
+#headshot {
+	background: url(../img/kyleprofile.jpg);
+	border-radius: 50%;
+	width: 190px;
+    margin-left: 30%;
+    height: 214px;
 }
 
 #social {
@@ -197,9 +205,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {	
-	background: url(../img/about.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 250px;
+	background: url(../img/firecat.jpg) no-repeat center top;
+	margin-top: 0px;
+	padding-top: 186px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
